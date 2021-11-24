@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "name": "Google App",
+      "budget": "90000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento de Software"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "Google App",
+      "budget": "90000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento de Software"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infraestrutura"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento de Software"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
