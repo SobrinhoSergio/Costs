@@ -21,6 +21,28 @@
       "cost": 0,
       "services": [],
       "id": 2
+    },
+    {
+      "name": "Projeto 3",
+      "budget": "2110",
+      "category": {
+        "id": "1",
+        "name": "Infraestrutura"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "Projeto 4",
+      "budget": "9000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
     }
   ],
   "categories": [
