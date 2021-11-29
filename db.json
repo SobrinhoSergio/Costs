@@ -54,6 +54,17 @@
       "cost": 0,
       "services": [],
       "id": 8
+    },
+    {
+      "name": "CEFET TCC",
+      "budget": "30000",
+      "category": {
+        "id": "1",
+        "name": "Infraestrutura"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 9
     }
   ],
   "categories": [
