@@ -37,7 +37,7 @@ obs: "Esta é a v1 do projeto, futuramente serão adicionados mais recursos
 ## Imagens do projeto
 
 #### Pagina Home
-<img src="./src/images/home.png" />
+<img src="./.github/images/home.png" />
 <hr>
 
 #### Pagina de criação do projeto
