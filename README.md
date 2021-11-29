@@ -37,29 +37,29 @@ obs: "Esta é a v1 do projeto, futuramente serão adicionados mais recursos
 ## Imagens do projeto
 
 #### Pagina Home
-<img src="./src/images/git/home.png" />
+<img src="./src/images/home.png" />
 <hr>
 
 #### Pagina de criação do projeto
-<img src="./.github/images/git/cirar.png" />
+<img src="./.github/images/cirar.png" />
 <hr>
 
 #### Pagina de exibição da criação do projeto
-<img src="./.github/images/git/listaProjetos.png" />
+<img src="./.github/images/listaProjetos.png" />
 <hr>
 
 #### Pagina de exibição de todos os projetos
-<img src="./.github/images/git/allProjetos.png" />
+<img src="./.github/images/allProjetos.png" />
 <hr>
 
 #### Pagina de edição do projeto
-<img src="./.github/images/git/editar.png" />
+<img src="./.github/images/editar.png" />
 <hr>
 
 #### Remoção de um projeto
-<img src="./.github/images/git/remover.png" />
+<img src="./.github/images/remover.png" />
 <hr>
 
 #### Pagina caso nao exista nenhum projeto
-<img src="./.github/images/git/vazia.png" />
+<img src="./.github/images/vazia.png" />
 <hr>
