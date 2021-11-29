@@ -23,41 +23,8 @@
       "id": 2
     },
     {
-      "name": "Projeto 3",
-      "budget": "2110",
-      "category": {
-        "id": "1",
-        "name": "Infraestrutura"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "name": "Projeto 4",
-      "budget": "9000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
-    },
-    {
-      "name": "Projeto Calculadora IMC",
-      "budget": "1000",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 5
-    },
-    {
-      "name": "Calculadora ",
-      "budget": "200",
+      "name": "Facebook App",
+      "budget": "1000000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento de Software"
@@ -67,37 +34,26 @@
       "id": 6
     },
     {
-      "name": "teste",
-      "budget": "100",
+      "name": "Youtube Canal",
+      "budget": "9000",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento de Software"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
       "id": 7
     },
     {
-      "name": "teste01",
-      "budget": "123",
+      "name": "Youtube Aula",
+      "budget": "2000",
       "category": {
-        "id": "1",
-        "name": "Infraestrutura"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
       "id": 8
-    },
-    {
-      "name": "teste 3",
-      "budget": "110",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 9
     }
   ],
   "categories": [
